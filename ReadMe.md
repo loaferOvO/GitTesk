@@ -1,1 +1,0 @@
-This is a repository for practice  using Git.
